@@ -1,0 +1,1 @@
+Prepare aws environment using elastic beanstalk for developers to deploy code just like azure app service.
